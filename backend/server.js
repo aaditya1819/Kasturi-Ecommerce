@@ -36,3 +36,5 @@ app.get('/',(req,res)=>{
     res.send("API Working")
 })
 
+
+export default app;

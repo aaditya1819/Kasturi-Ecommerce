@@ -8,7 +8,7 @@ import Orders from "./pages/Orders";
 import Login from "./components/Login";
 import { ToastContainer } from "react-toastify";
 
-export const backendUrl = "https://kasturi-backend-1tee.onrender.com";
+export const backendUrl = "https://kasturi-backend.vercel.app";
 export const currency = "₹";
 
 const App = () => {

@@ -1,8 +1,8 @@
 
 import orderModel from  "../models/oderModel.js";
 import userModel from "../models/userModel.js";
-import Stripe from 'stripe'
-import razorpay from 'razorpay'
+// import Stripe from 'stripe'
+// import razorpay from 'razorpay'
 
 
 //Global variables

@@ -11,7 +11,7 @@ export const ShopContext = createContext();
 const ShopContextProvider = (props) => {
     const currency ='₹';
     const delivery_fee = 100
-    const backendUrl = "https://kasturi-backend-1tee.onrender.com";
+    const backendUrl = "kasturi-backend.vercel.app";
     const [search,setSearch] = useState('');
     const [showSearch,setShowSearch] = useState(false);
     const [cartItems ,setCartItems] = useState({});
